@@ -1,0 +1,30 @@
+/*
+div {
+    background-color: red;
+    font-size: 32px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+p {
+    background-color: green;
+    font-size: 18px;
+    color: white;
+}
+button {
+    background-color: orange;
+    font-size: 18px;
+}
+*/
+
+div {
+    display: block;
+
+}
+span {
+    display: inline-block;
+    margin: 10px;
+}
+* {
+    outline: 1px solid red;
+}

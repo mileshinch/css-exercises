@@ -1,0 +1,10 @@
+.container .text {
+    color: red;
+    background-color: yellow;
+    font-weight: lighter;
+}
+
+p {
+    color: purple;
+    font-weight: bold;
+}
